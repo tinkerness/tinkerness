@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 , I’m Anitta Siby</h1>
 <h3 align="center">I'm a Computer Science Student!</h3>
-<h4 align="center">I am a 2nd year student at SJCET pursuing B.Tech. in CSE. I like to Code, Design, Innovate and Experiment.</h4>
+<h4 align="center">I am currently studying at SJCET.</h4>
 <br>
 
 - 👀 I’m interested in programming and debugging.
