@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 , I’m Anitta Siby</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px"> , I’m Anitta Siby</h1>
 <h3 align="center">I'm a Computer Science Student!</h3>
 <h4 align="center">I am currently studying at SJCET.</h4>
 <br>
