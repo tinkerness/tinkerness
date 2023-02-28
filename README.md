@@ -11,9 +11,8 @@
 --->
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=tinkerness&show_icons=true&theme=tokyonight&hide=issues" alt="Anitta's Github Statistics" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tinkerness&show_icons=true&theme=tokyonight" alt="Anitta's Github Stats" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerness&theme=tokyonight&langs_count=10&layout=compact" alt="Anitta's Top Languages" />
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerness&theme=tokyonight&langs_count=8&layout=compact" alt="Anitta's Top Languages" /></a>
 </p>
