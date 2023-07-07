@@ -39,8 +39,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tinkerness&show_icons=true&theme=tokyonight" alt="Anitta's Github Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinkerness&theme=tokyonight" alt="anitta" />
-    <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerness&theme=tokyonight&langs_count=8&layout=compact" alt="Anitta's Top Langs"/>
-    </a>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerness&theme=tokyonight&langs_count=8&layout=compact" alt="Anitta's Top Langs"/>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tinkerness&label=Profile%20views" alt="anitta" />
