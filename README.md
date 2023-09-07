@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="www.linkedin.com/in/anittasiby" target="blank"><img align="center" src="images/social/linkedin.svg" alt="anitta-siby-989676200" height="20" width="30" /></a>
+    <a href="https://www.linkedin.com/in/anittasiby/" target="blank"><img align="center" src="images/social/linkedin.svg" alt="anitta-siby-989676200" height="20" width="30" /></a>
     <a href="https://instagram.com/therezness" target="blank"><img align="center" src="images/social/instagram.svg" alt="therezness" height="20" width="30" /></a>
 </p><br>
 
