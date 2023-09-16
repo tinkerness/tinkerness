@@ -1,6 +1,5 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px"> , I’m Anitta Siby</h1>
-<h3 align="center">I'm a Computer Science Engineer & Developer !</h3>
-<h4 align="center">I am currently studying at SJCET.</h4>
+<h3 align="center">Computer Science Engineer | Web Developer | Designer</h3>
 <br>
 
 - 👀 I’m interested in programming and debugging.
